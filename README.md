@@ -21,3 +21,9 @@ npm run dev or yarn dev
 
 - Integrate with chatGPT api
 - Streams in edge runtime vercel
+
+## Techs used
+
+- NextJS
+- Vercel
+- Edge 
