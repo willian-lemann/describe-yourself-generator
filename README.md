@@ -13,5 +13,11 @@ After cloning the repo, go to [OpenAI](https://beta.openai.com/account/api-keys)
 Then, run the application in the command line and it will be available at `http://localhost:3000`.
 
 ```bash
-npm run dev
+npm run dev or yarn dev
 ```
+
+
+## What I Learned
+
+- Integrate with chatGPT api
+- Streams in edge runtime vercel
